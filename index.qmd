@@ -5,5 +5,8 @@ output:
     self_contained: true
 ---
 
-<img src="dino.png" alt="Hello!" title="Dino" style="width:100%">
+```{r,echo=F,out.width="400px",out.height="400px"}
+knitr::include_graphics("dino.png")
+```
 
+![Hello](dino.png)
