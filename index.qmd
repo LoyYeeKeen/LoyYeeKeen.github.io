@@ -1,0 +1,12 @@
+---
+title: "Welcome to My Page!"
+output:
+  quarto::quarto_html:
+    self_contained: true
+---
+
+```{r,echo=F,out.width="400px",out.height="400px"}
+knitr::include_graphics("dino.png")
+```
+
+![Hello](dino.png)
