@@ -1,6 +1,7 @@
 ---
 title: "Courses Taken"
 ---
+
 PL1101E: Introduction to Psychology
 
 CL1101E: Chinese Language: Its Past and Present

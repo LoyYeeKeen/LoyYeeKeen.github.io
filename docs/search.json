@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses Taken",
+    "section": "",
+    "text": "PL1101E: Introduction to Psychology\nCL1101E: Chinese Language: Its Past and Present\nHSS1000: Understanding Social Complexity\nHSA1000: Asian Interconnections\nDTK1234: Design Thinking\nPL2131: Research and Statistical Methods I\nEL1101E: The Nature of Language\nFAS1101: Writing Academically: Arts and Social Sciences\nHSH1000: The Human Condition\nHSI1000: How Science Works, Why Science Works\nST1131: Introduction to Statistics and Statistical Computing\nNM2207: Computational Media Literacy\nPL3102: Cognitive Psychology\nPL3103: Biological Psychology\nEL2102: Sound Patterns in Language\nTRA2101: Basic Translation\nHSI2013: The Science of Music"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Page!",
+    "section": "",
+    "text": "Hello"
+  },
+  {
+    "objectID": "folders.html",
+    "href": "folders.html",
+    "title": "NM2207 Folders",
+    "section": "",
+    "text": "Here’s the link to all my NM2207 folders on GitHub!"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
