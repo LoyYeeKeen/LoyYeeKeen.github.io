@@ -7,7 +7,9 @@ Hello! I am Loy Yee Keen, a Year 2 student majoring in Psychology!
 
 ```{r}
 #| eval=TRUE,
-#| out.width="100%"
+#| echo=FALSE,
+#| out.width="400px",
+#| out.height="400px"
 knitr::include_graphics("dino.png")
 ```
 

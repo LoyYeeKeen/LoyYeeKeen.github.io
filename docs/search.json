@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Welcome to My Page!",
     "section": "",
-    "text": "Hello"
+    "text": "Hello!"
   },
   {
     "objectID": "folders.html",
@@ -25,6 +25,6 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello! I am Loy Yee Keen, a Year 2 student majoring in Psychology!\n\nknitr::include_graphics(\"dino.png\")"
+    "text": "Hello! I am Loy Yee Keen, a Year 2 student majoring in Psychology!"
   }
 ]
