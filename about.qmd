@@ -1,5 +1,8 @@
 ---
 title: "About Me"
+output:
+  quarto::quarto_html:
+    self_contained: true
 ---
 
 Hello! I am Loy Yee Keen, a Year 2 student majoring in Psychology! 

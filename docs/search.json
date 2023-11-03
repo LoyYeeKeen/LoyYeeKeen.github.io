@@ -26,5 +26,26 @@
     "title": "About Me",
     "section": "",
     "text": "Hello! I am Loy Yee Keen, a Year 2 student majoring in Psychology!"
+  },
+  {
+    "objectID": "finalproj.html",
+    "href": "finalproj.html",
+    "title": "Are gender-neutral names on the rise among babies born in America?",
+    "section": "",
+    "text": "Who reported shift in gender-neutral names\nI’m going to try to test this hypothesis with data. I’ll be analyzing the change in the trend of gender-neutral names in America in the past 140 years, from 1882 to 2022, using datasets from the Social Security Administration, an independent agency of the U.S. federal government which reports the names given to babies at birth for 2 genders–male and female.\n\nWhat defines gender-neutral names?\nTo make things simpler, I will define gender-neutral names to be the overlaps in the names given to male and female babies that occur at least 500 times for each gender.\nIn this loose definition, I only considered overlapping names that occurred at least 500 times for each gender because there might be outliers, or parents giving their children a historically/supposedly opposite gender name for the reasons of establishing uniqueness or honouring a family name etc. (cite, esp uniqueness)\n\n\nWhat to include in the analysis?\nTo analyse the changing trend, I will analyse the change in the proportion of gender-neutral names from 1882 to 2022, in relation to the total number of babies borned in that particular year.\nI considered the proportion instead of just the count because population growth (cite in write up) would mean that there are more babies born each year, and hence a higher occurance of a baby with a gender-neutral name.\n\n\nAs you can tell, gender-neutral names have risen by a huge proportion over the years. The percentage is a whopping % from 1882 to 2022! The peak of gender-neutral names appears to be which year, which however, seems to have fallen over the last few decades. Nonetheless, it cannot be denied that this fall is marginal in comparison to the large rise in gender-neutral names over the years.\nSo…what are the top gender-neutral names of 2022? Let’s take a look at the top 5.\nTo zoom into these names, how have their trends changed over the years? Were they originally skewed to a particular gender or were they already gender-neutral from the beginning? Also, when did these names come about or start becoming popular/establishing itself for both genders?\nafter plot2 Here’s an overview of the trends of the top 5 gender-neutral names, note that the y-axis isn’t to scale????"
+  },
+  {
+    "objectID": "finalproj.html#what-defines-gender-neutral-names",
+    "href": "finalproj.html#what-defines-gender-neutral-names",
+    "title": "NM2207 Final Project",
+    "section": "",
+    "text": "###In this loose definition, I only considered overlapping names that occurred at least 500 times for each gender because there might be outliers, or parents giving their children a historically/supposedly opposite gender name for the reasons of establishing uniqueness or honouring a family name etc. (cite, esp uniqueness)"
+  },
+  {
+    "objectID": "finalproj.html#what-to-include-in-the-analysis",
+    "href": "finalproj.html#what-to-include-in-the-analysis",
+    "title": "Are gender-neutral names on the rise among babies born in America?",
+    "section": "What to include in the analysis?",
+    "text": "What to include in the analysis?\nTo analyse the changing trend, I will analyse the change in the proportion of gender-neutral names from 1882 to 2022, in relation to the total number of babies borned in that particular year.\nI considered the proportion instead of just the count because population growth (cite in write up) would mean that there are more babies born each year, and hence a higher occurance of a baby with a gender-neutral name."
   }
 ]

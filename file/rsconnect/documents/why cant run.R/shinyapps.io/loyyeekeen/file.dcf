@@ -1,0 +1,12 @@
+name: file
+title: file
+username: loyyeekeen
+account: loyyeekeen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10291437
+bundleId: 7846298
+url: https://loyyeekeen.shinyapps.io/file/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

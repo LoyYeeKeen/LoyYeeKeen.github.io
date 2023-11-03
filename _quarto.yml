@@ -20,8 +20,8 @@ website:
 format:
   html:
     theme: sketchy
-    css: styles.css
-    toc: true
+    css: 
+      - styles.css
 
 editor: visual
 

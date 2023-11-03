@@ -1,5 +1,8 @@
 ---
 title: "Courses Taken"
+output:
+  quarto::quarto_html:
+    self_contained: true
 ---
 PL1101E: Introduction to Psychology
 

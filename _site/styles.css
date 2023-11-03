@@ -1,1 +1,7 @@
 /* css styles */
+.sidebar nav[role=doc-toc] {
+  display: none;
+}
+.anchorjs-link {
+  display: none;
+}
