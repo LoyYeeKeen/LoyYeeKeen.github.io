@@ -20,6 +20,8 @@ website:
 format:
   html:
     theme: sketchy
+    grid:
+      body-width: 2000px
     css: 
       - styles.css
 

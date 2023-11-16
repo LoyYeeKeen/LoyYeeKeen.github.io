@@ -1,13 +1,11 @@
 ---
-title: "NM2207 Final Project"
+title: "Is There a Rise in Gender-Neutral Names in the U.S.?"
 output:
   quarto::quarto_html:
     self_contained: true
+    
 ---
-```{r}
-#| eval=TRUE,
-#| echo=FALSE,
-#| out.width="100%",
-#| out.height="100%"
-knitr::include_graphics("Screenshot.jpeg.jpeg")
-```
+Please wait for the iframe/plots to load...it's quite slow
+
+<iframe height="3110" width="100%" frameborder="no" src="https://loyyeekeen.shinyapps.io/final/"> </iframe>
+

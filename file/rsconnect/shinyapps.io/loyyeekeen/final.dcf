@@ -1,0 +1,12 @@
+name: final
+title: final
+username: loyyeekeen
+account: loyyeekeen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10542991
+bundleId: 7933766
+url: https://loyyeekeen.shinyapps.io/final/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
