@@ -13,6 +13,6 @@ Hello! I am Loy Yee Keen, a Year 2 student majoring in Psychology!
 #| echo=FALSE,
 #| out.width="400px",
 #| out.height="400px"
-knitr::include_graphics("dino.png")
+knitr::include_graphics("dino-removebg-preview.png")
 ```
 
